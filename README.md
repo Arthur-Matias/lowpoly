@@ -47,9 +47,3 @@ To convert more, first you need to rename all images to numbers from 1 to whatev
 ```
     sh run.sh
 ```
-
-End with an example of getting some data out of the system or using it for a little demo.
-
-## Usage <a name = "usage"></a>
-
-Add notes about how to use the system.
